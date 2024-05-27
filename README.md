@@ -2,7 +2,7 @@
 
 ## **BeautifulSoup**
 
-This README provides a detailed guide on how to scrape data from a webpage using BeautifulSoup, process the HTML content, and extract table data into a CSV file. The guide is structured to help you understand and follow each step clearly.
+This README provides a detailed guide on how to scrape data from a webpage using BeautifulSoup, process the HTML content, and extract table data into a CSV file. 
 
 ### Prerequisites
 
