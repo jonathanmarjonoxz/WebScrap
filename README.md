@@ -164,5 +164,3 @@ df.to_csv('result.csv', index=False, sep=';')
 * [Requests Documentation](https://docs.python-requests.org/en/master/)
 * [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
 * [Web Scraping Best Practices](https://www.scrapingbee.com/blog/web-scraping-best-practices/)
-
-This README should help you get started with web scraping using BeautifulSoup in Python. Happy scraping!
